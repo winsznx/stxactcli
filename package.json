@@ -1,6 +1,6 @@
 {
   "name": "@stxact/cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "stxact command-line interface",
   "repository": {
     "type": "git",
