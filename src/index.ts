@@ -987,3 +987,4 @@ program.parseAsync(process.argv).catch((error) => {
   process.exit(1);
 });
 export const DEFAULT_GAS_SMM = 0.001;
+export const STXACT_VERSION = "1.0.1";
