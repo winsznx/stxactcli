@@ -987,3 +987,4 @@ program.parseAsync(process.argv).catch((error) => {
   process.exit(1);
 });
 export const CLI_THEME = 'professional';
+export const DEFAULT_NETWORK = 'mainnet';
